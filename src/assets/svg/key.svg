@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 157 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-331,-162)">
+        <g id="key" transform="matrix(1,0,0,1,-2.77829,7.28704)">
+            <path d="M404.523,166.484C407.907,164.282 412.338,164.576 415.402,167.205C420.581,171.718 428.704,178.527 434.739,182.423C444.433,188.682 467.826,199.088 467.826,199.088L409.911,236.885C409.911,236.885 384.084,228 374.127,222.174C364.447,216.511 350.37,201.73 350.37,201.73C350.37,201.73 389.484,176.272 404.523,166.484Z" style="fill:none;stroke:black;stroke-width:2.76px;"/>
+            <g transform="matrix(1.02837,0,0,1.01799,-11.2525,-3.58256)">
+                <path d="M409.911,236.885C409.911,236.885 404.744,266.799 403.177,275.872C403.079,276.435 403.272,277.01 403.689,277.398C404.106,277.785 404.689,277.932 405.237,277.787C416.503,274.812 462.744,262.599 481.85,257.553C483.932,257.003 485.673,255.562 486.615,253.608C487.557,251.653 487.608,249.38 486.753,247.385C480.116,231.899 466.125,199.252 466.125,199.252" style="fill:none;stroke:black;stroke-width:2.7px;"/>
+            </g>
+            <path d="M403.554,278.967C403.554,278.967 382.132,268.21 365.432,257.817C357.665,252.984 344.27,243.436 338.507,239.291C336.882,238.123 336.271,235.993 337.03,234.142C340.589,225.457 350.28,201.808 350.28,201.808" style="fill:none;stroke:black;stroke-width:2.76px;"/>
+            <g transform="matrix(0.506011,0.444251,-0.46928,0.53452,291.086,-101.588)">
+                <text x="395.973px" y="195.672px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.718px;stroke:black;stroke-width:1.44px;stroke-linecap:butt;stroke-miterlimit:2;">ESC</text>
+            </g>
+        </g>
+    </g>
+</svg>
